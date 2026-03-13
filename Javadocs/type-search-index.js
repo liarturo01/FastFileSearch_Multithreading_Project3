@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"edu.bhcc","l":"DirectoryUtil"},{"p":"edu.bhcc","l":"DirectoryUtilTest"},{"p":"edu.bhcc","l":"FileSearch"},{"p":"edu.bhcc","l":"FileSearchUtil"},{"p":"edu.bhcc","l":"FileSearchUtilTest"},{"p":"edu.bhcc","l":"Main"}];updateSearchResults();
